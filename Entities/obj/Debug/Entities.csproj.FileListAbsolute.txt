@@ -1,0 +1,9 @@
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\Entities\bin\Debug\Entities.dll
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\Entities\bin\Debug\Entities.pdb
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\Entities\obj\Debug\Entities.dll
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\Entities\obj\Debug\Entities.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\Entities\bin\Debug\Entities.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\Entities\bin\Debug\Entities.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\Entities\obj\Debug\Entities.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\Entities\obj\Debug\Entities.pdb

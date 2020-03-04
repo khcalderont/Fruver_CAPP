@@ -1,0 +1,18 @@
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\Entities.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\bin\Debug\Entities.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\BusinessLayer\obj\Debug\BusinessLayer.pdb

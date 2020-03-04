@@ -1,0 +1,26 @@
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\bin\Debug\Entities.dll
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\bin\Debug\Entities.pdb
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.frmClientes.resources
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+C:\Users\SENA\Documents\KEBIN CALDERÓN\Instructor Jesús David\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\bin\Debug\ApplicationLayer.exe.config
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.exe
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\bin\Debug\ApplicationLayer.exe
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\bin\Debug\ApplicationLayer.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\bin\Debug\BusinessLayer.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\bin\Debug\Entities.dll
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\bin\Debug\Entities.pdb
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.frmClientes.resources
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.Properties.Resources.resources
+C:\Users\SENA\Documents\Visual Studio 2012\Projects\Fruver_CAPP\ApplicationLayer\obj\Debug\ApplicationLayer.csproj.GenerateResource.Cache
